@@ -9,9 +9,13 @@ public class arrays {
         for(int i=0;i<size;i++){
             numbers[i]= sc.nextInt();
         }
+//        for(int i=0; i<size;i++){
+//            System.out.print(numbers[i]+" ");
+//        }
         for(int i=0; i<size;i++){
             System.out.print(numbers[i]+" ");
         }
+
 
     }
 

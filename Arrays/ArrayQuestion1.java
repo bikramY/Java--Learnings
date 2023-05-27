@@ -14,6 +14,7 @@ public class ArrayQuestion1 {
             names[i]=sc.next();
         }
 
+
         for(int i=0;i<size;i++){
             System.out.print(names[i]+" ");
         }
