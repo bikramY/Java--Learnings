@@ -11,6 +11,7 @@ public class ArrayListt {
             Scanner sc= new Scanner(System.in);
             list.add(sc.nextInt() );
         }
+
 //        list.remove(2);
         System.out.println(list);
 //        Collections.sort(list);
